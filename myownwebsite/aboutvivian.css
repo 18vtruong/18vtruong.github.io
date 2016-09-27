@@ -1,0 +1,16 @@
+table{
+   
+    text-align:left;
+    border-collapse:collapse;
+    cellspacing: 0px; 
+}
+tr{
+    border: 1px solid #ffffff;
+    text-align:center;
+    background-color: #00FFFF;
+}
+th{
+    text-align:center;
+    color: #ffffff;
+    background-color: #7FFFD4;
+}
